@@ -1,0 +1,7 @@
+interface BusinessPartnerSave {
+
+}
+
+interface BusinessPartnerLoad {
+    
+}

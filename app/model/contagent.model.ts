@@ -1,0 +1,7 @@
+interface ContragentSave {
+
+}
+
+interface ContragentLoad {
+    
+}
