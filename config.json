@@ -1,0 +1,25 @@
+{
+    "jwt-secret": "secretkey",
+    "webservices": [
+        {
+            "endpoint": "",
+            "username": "",
+            "password": ""
+        },
+        {
+            "endpoint": "",
+            "username": "",
+            "password": ""
+        },
+        {
+            "endpoint": "",
+            "username": "",
+            "password": ""
+        },
+        {
+            "endpoint": "",
+            "username": "",
+            "password": ""
+        }
+    ]
+}
